@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS ROBOTICS // Innovation Lab",
+  "description": "Futuristic personal robotics lab, hardware workshop, and engineering control center showcasing embedded systems, IoT safety devices, AI assistants, and open source firmware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
